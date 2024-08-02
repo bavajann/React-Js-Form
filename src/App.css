@@ -1,0 +1,14 @@
+/* App.css */
+.App {
+    border: 2px solid red;
+  }
+  
+  .App1 tr {
+    border-bottom: 1px solid blue;
+  }
+  
+  .App1 th, .App1 td {
+    border: 1px solid green;
+    padding: 10px;
+  }
+  
